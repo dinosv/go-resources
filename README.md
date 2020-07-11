@@ -33,6 +33,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Go: The Cool Parts](https://vimeo.com/144639088) (Vimeo, 37:53) - An introductory talk to Go by [Frances Campoy](https://twitter.com/francesc) (Øredev Conference, 2015)
  - [Json, Interfaces & Go Generate](https://www.youtube.com/watch?v=YgnD27GFcyA) (Youtube, 32:24) - Francesc Campoy talks about JSON encoding and decoding, interfaces, and the new "go generate" command at London Go Gathering. (2015)
  - [Vendoring Your Dependencies](https://www.youtube.com/watch?v=AIo0UBcvnPg) (Youtube, 5:53) - Explains what vendoring is and why you should do it to get reproducible builds. (November 2015)
+ - [Canal 1](https://www.youtube.com/channel/UCElzlyMtkoXaO3kFa5HL0Xw) - canal 1 
 
 ## Slides
  - [Go 102: A Go Workshop](https://speakerdeck.com/timblair/go-102-a-workshop) - A slide deck to accompany the workshop by [Tim Blair](https://github.com/timblair). Covers built-in types, variable declarations, functions, custom types, object oriented development and concurrency. (November 2015)
@@ -64,6 +65,11 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) - An overview of Go syntax and features by [Ariel Mashraki](https://github.com/a8m).
  - [Golang Official Wiki](https://github.com/golang/go/wiki) - Official go wiki, a collection of information about the Go Programming Language on Github.
  - [Curated Go Resources](https://hackr.io/tutorials/learn-golang) - recommended resources voted by Programming Community.
+ - [links 1](https://www.reddit.com/r/golang/comments/5djil6/what_are_the_best_resources_to_learn_go_from/) - links 1
+ - [links 2](https://www.reddit.com/r/golang/comments/8oza7p/what_are_the_best_resources_to_learn_go/) - links 2
+ - [links 3](https://golang.cafe/blog/my-5-favourite-online-resources-to-learn-golang-from-scratch.html) - links 3
+ - [links 4](https://medium.com/techwasti/best-resources-to-learn-go-lang-programming-language-a838a6e34c4c) - links 4
+ - [links 5](https://dave.cheney.net/resources-for-new-go-programmers) - dave 
 
 ---
 
